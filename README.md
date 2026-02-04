@@ -9,7 +9,7 @@
 
 A Local File Inclusion (LFI) vulnerability (CVE-2025-68645) exists in the Zimbra Collaboration Suite (ZCS) Webmail Classic UI due to improper handling of user-supplied request parameters in the RestFilter servlet. An unauthenticated remote attacker can craft malicious requests, potentially exposing sensitive configuration and application data and aiding further compromise. 
 
- The **Outbreak Response - Zimbra Collaboration Local File Inclusion** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - Zimbra Collaboration Local File Inclusion** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.3.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
  The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/zimbra-collaboration-lfi) contains information about the outbreak alert **Outbreak Response - Zimbra Collaboration Local File Inclusion**. 
 
